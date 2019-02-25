@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"stages":{"156cf130dbf323003b1348703996196c":{"duration":"","order":1000,"stageId":"156cf130dbf323003b1348703996196c","name":"Request Cancelled","value":"Request Cancelled"},"156cf130dbf323003b1348703996196d":{"duration":"2 Days","order":140,"stageId":"156cf130dbf323003b1348703996196d","name":"Delivery","value":"delivery"},"916cf130dbf323003b1348703996196d":{"duration":"1 Day","order":120,"stageId":"916cf130dbf323003b1348703996196d","name":"Fulfillment","value":"fulfillment"},"9d6cf130dbf323003b1348703996196c":{"duration":"","order":90,"stageId":"9d6cf130dbf323003b1348703996196c","name":"Request Approved","value":"request_approved"},"1d6cf130dbf323003b1348703996196c":{"duration":"","order":1100,"stageId":"1d6cf130dbf323003b1348703996196c","name":"Completed","value":"complete"},"116cf130dbf323003b1348703996196d":{"duration":"1 Day","order":100,"stageId":"116cf130dbf323003b1348703996196d","name":"Waiting for Approval","value":"waiting_for_approval"}},"activities":{"dd338234dbf323003b1348703996191f":"156cf130dbf323003b1348703996196c","0d49c2f4dbf323003b134870399619bc":"1d6cf130dbf323003b1348703996196c","10b1ce70dbf323003b134870399619ed":"916cf130dbf323003b1348703996196d","a0758e34dbf323003b13487039961940":"156cf130dbf323003b1348703996196d","c75ff970dbf323003b13487039961997":"9d6cf130dbf323003b1348703996196c","6ee0c6b0dbf323003b1348703996199e":"156cf130dbf323003b1348703996196c","ab660674dbf323003b13487039961961":"156cf130dbf323003b1348703996196d","f664ce34dbf323003b13487039961956":"156cf130dbf323003b1348703996196d","1b3e3170dbf323003b1348703996193d":"116cf130dbf323003b1348703996196d"},"ends":["116c7dbcdbb323003b134870399619f1"],"subflows":[]}</activity_stages>
+        <activity_stages>{"ends":["116c7dbcdbb323003b134870399619f1"],"stages":{"156cf130dbf323003b1348703996196c":{"duration":"","order":1000,"stageId":"156cf130dbf323003b1348703996196c","name":"Request Cancelled","value":"Request Cancelled"},"156cf130dbf323003b1348703996196d":{"duration":"2 Days","order":140,"stageId":"156cf130dbf323003b1348703996196d","name":"Delivery","value":"delivery"},"916cf130dbf323003b1348703996196d":{"duration":"1 Day","order":120,"stageId":"916cf130dbf323003b1348703996196d","name":"Fulfillment","value":"fulfillment"},"9d6cf130dbf323003b1348703996196c":{"duration":"","order":90,"stageId":"9d6cf130dbf323003b1348703996196c","name":"Request Approved","value":"request_approved"},"1d6cf130dbf323003b1348703996196c":{"duration":"","order":1100,"stageId":"1d6cf130dbf323003b1348703996196c","name":"Completed","value":"complete"},"116cf130dbf323003b1348703996196d":{"duration":"1 Day","order":100,"stageId":"116cf130dbf323003b1348703996196d","name":"Waiting for Approval","value":"waiting_for_approval"}},"subflows":[],"activities":{"dd338234dbf323003b1348703996191f":"156cf130dbf323003b1348703996196c","0d49c2f4dbf323003b134870399619bc":"1d6cf130dbf323003b1348703996196c","10b1ce70dbf323003b134870399619ed":"916cf130dbf323003b1348703996196d","a0758e34dbf323003b13487039961940":"156cf130dbf323003b1348703996196d","c75ff970dbf323003b13487039961997":"9d6cf130dbf323003b1348703996196c","6ee0c6b0dbf323003b1348703996199e":"156cf130dbf323003b1348703996196c","ab660674dbf323003b13487039961961":"156cf130dbf323003b1348703996196d","f664ce34dbf323003b13487039961956":"156cf130dbf323003b1348703996196d","1b3e3170dbf323003b1348703996193d":"116cf130dbf323003b1348703996196d"}}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -31,12 +31,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-20 21:30:32</sys_created_on>
         <sys_id>7c6afdbcdbb323003b134870399619f2</sys_id>
-        <sys_mod_count>189</sys_mod_count>
+        <sys_mod_count>191</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-20 22:31:19</sys_updated_on>
+        <sys_updated_on>2019-02-21 21:28:16</sys_updated_on>
         <table>sc_req_item</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Xbox Consoles WorkFlow">d56c7dbcdbb323003b134870399619ee</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">

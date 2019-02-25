@@ -3,10 +3,10 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category/>
+        <category display_value="Xbox Consoles">1cf4bec5dbf323003b134870399619f4</category>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>The Xbox is a home video game console and the first installment in the Xbox series of consoles manufactured by Microsoft. It was released on November 15, 2001 in North America, followed by Australia, Europe and Japan in 2002. It was Microsoft&#39;s first foray into the gaming console market.</p>]]></description>
@@ -56,14 +56,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-20 21:18:32</sys_created_on>
         <sys_id>b8f7753cdbb323003b13487039961946</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Xbox Original</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sc_cat_item_b8f7753cdbb323003b13487039961946</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-20 21:21:07</sys_updated_on>
+        <sys_updated_on>2019-02-21 21:27:44</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
@@ -71,7 +71,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow/>
+        <workflow display_value="Xbox Consoles WorkFlow">d56c7dbcdbb323003b134870399619ee</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=b8f7753cdbb323003b13487039961946"/>
     <fx_price action="delete_multiple" query="id=b8f7753cdbb323003b13487039961946"/>
